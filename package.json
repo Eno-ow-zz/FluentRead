@@ -1,0 +1,21 @@
+{
+  "name": "fluentread",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eno-ow-zz/FluentRead.git"
+  },
+  "workspace": ["client", "server"],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eno-ow-zz/FluentRead/issues"
+  },
+  "homepage": "https://github.com/Eno-ow-zz/FluentRead#readme"
+}
